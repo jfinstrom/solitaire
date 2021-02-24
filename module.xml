@@ -1,0 +1,22 @@
+<module>
+	<rawname>solitaire</rawname>
+	<repo>unsupported</repo>
+	<name>Hello World</name>
+	<version>14.0.1</version>
+	<category>Reports</category>
+	<Publisher>James Finstrom</Publisher>
+	<licence>GPL</licence>
+	<licenselink>http://www.gnu.org/licenses/gpl-2.0.txt</licenselink>
+	<menuitems>
+		<solitaire>SOL Report</solitaire>
+	</menuitems>
+	<depends>
+		<version>14</version>
+	</depends>
+	<supported>14.0</supported>
+	
+	<description>This is the Hello World module used to learn by example for BMO used in 12+</description>
+	<changelog>
+		*14.0.1* Initial
+	</changelog>
+</module>
